@@ -1,0 +1,25 @@
+{
+  "name": "magic8ball",
+  "version": "0.0.1",
+  "description": "A simple Magic 8 ball app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxwellCohen/magic8ball"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
